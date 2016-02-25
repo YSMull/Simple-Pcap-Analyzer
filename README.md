@@ -1,4 +1,4 @@
-Simple-Pcap-AnalyzerSimple-Pcap-Analyzer
+Simple-Pcap-Analyzer
 ======
 main.c只实现了析取tcp和udp的算法，控制台程序。
 
